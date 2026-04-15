@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Mois C | Marketing Leader</title>
+
+  <style>
+    body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+      background: #0a0a0a;
+      color: white;
+    }
+
+    .container {
+      max-width: 1100px;
+      margin: auto;
+      padding: 40px 20px;
+    }
+
+    h1 {
+      font-size: 48px;
+      margin-bottom: 20px;
+    }
+
+    h2 {
+      font-size: 32px;
+      margin-top: 60px;
+    }
+
+    p {
+      color: #ccc;
+      line-height: 1.6;
+    }
+
+    .card {
+      background: #121212;
+      padding: 20px;
+      border-radius: 12px;
+      margin-top: 20px;
+    }
+
+    .section {
+      margin-top: 60px;
+    }
+
+    .btn {
+      display: inline-block;
+      padding: 12px 20px;
+      margin-top: 20px;
+      background: white;
+      color: black;
+      border-radius: 8px;
+      text-decoration: none;
+    }
+  </style>
+</head>
+
+<body>
+
+  <div class="container">
+
+    <!-- HERO -->
+    <h1>Marketing leader building growth systems, premium brand presence, and commercial momentum.</h1>
+    <p>
+      Group Marketing Manager with experience across automotive, lifestyle, events, and consumer brands — connecting strategy, execution, and real business impact.
+    </p>
+
+    <!-- ABOUT -->
+    <div class="section">
+      <h2>About</h2>
+      <p>
+        I build marketing systems — not just campaigns. My work connects brand, customer experience, lead generation, and revenue growth.
+      </p>
+    </div>
+
+    <!-- WORK -->
+    <div class="section">
+      <h2>Selected Work</h2>
+
+      <div class="card">
+        <h3>Western Circle Group</h3>
+        <p>Leading multi-brand marketing across automotive, aftersales, and premium experiences.</p>
+      </div>
+
+      <div class="card">
+        <h3>Automotive Growth</h3>
+        <p>Increased showroom traffic and improved campaign performance through integrated strategy.</p>
+      </div>
+
+      <div class="card">
+        <h3>Campaigns & Activations</h3>
+        <p>Executed launches, events, and collaborations to drive engagement and conversions.</p>
+      </div>
+    </div>
+
+    <!-- CONTACT -->
+    <div class="section">
+      <h2>Contact</h2>
+      <p>Email: mois1328@gmail.com</p>
+      <p>Phone: +60 18-377 8128</p>
+    </div>
+
+  </div>
+
+</body>
+</html>
