@@ -1,2 +1,2 @@
-# moisc.github.io
+# moischakra.github.io
 Marketing leader portfolio – brand, growth, and commercial strategy
